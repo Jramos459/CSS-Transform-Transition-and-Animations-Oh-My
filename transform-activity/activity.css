@@ -1,3 +1,13 @@
 main {
+    transform: skew(-21deg);
+}
 
+div.info {
+    transform: skew(33deg,-16deg);
+
+}
+
+body {
+
+    font-weight: bolder;
 }
